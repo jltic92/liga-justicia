@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Elaborado directo desde GitHub para el curso
+
+Prueba para ver el tipo de merge
